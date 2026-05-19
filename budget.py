@@ -743,14 +743,3 @@ else:
                 "text/csv"
             )
 
-# =========================================================
-# FOOTER
-# =========================================================
-
-st.markdown("---")
-
-st.markdown("""
-<center style='color:#94a3b8'>
-Made with ❤️ using Streamlit
-</center>
-""", unsafe_allow_html=True)
