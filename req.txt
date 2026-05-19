@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+pillow
+pytesseract
+SpeechRecognition
+forex-python
+openpyxl
+fpdf
+scikit-learn
+pyaudio

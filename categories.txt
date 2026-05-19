@@ -1,0 +1,14 @@
+🍔 Food
+🏠 Rent
+🛍️ Shopping
+🚕 Travel
+🎮 Entertainment
+🏥 Healthcare
+📚 Education
+💡 Bills
+💼 Salary
+📈 Investments
+📦 Others
+food
+salary
+rent
